@@ -1,0 +1,12 @@
+C:\Users\equmag\source\repos\DiscordRuntime\bin\Release\net8.0\DiscordRuntime.deps.json
+C:\Users\equmag\source\repos\DiscordRuntime\bin\Release\net8.0\DiscordRuntime.dll
+C:\Users\equmag\source\repos\DiscordRuntime\bin\Release\net8.0\DiscordRuntime.pdb
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.csproj.AssemblyReference.cache
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.AssemblyInfoInputs.cache
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.AssemblyInfo.cs
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.csproj.CoreCompileInputs.cache
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.dll
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\refint\DiscordRuntime.dll
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\DiscordRuntime.pdb
+C:\Users\equmag\source\repos\DiscordRuntime\obj\Release\net8.0\ref\DiscordRuntime.dll
